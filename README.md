@@ -6,7 +6,7 @@ O PyLadies Invaders é um jogo de nave espacial onde o jogador controla uma PyLa
 
 O jogo é inspirado no clássico Space Invaders.
 
-![Jogo em Execução](https://github.com/PyLadiesSanca/pyladies-invaders/assets/8601883/5642de79-34af-4c61-8bac-11717691cb44)
+https://github.com/PyLadiesSanca/pyladies-invaders/assets/8601883/9f94fe6c-83e1-4a68-82dc-ee7c69382ef8
 
 ## Instruções de instalação
 Para executar o código e jogar o PyLadies Invaders é necessário instalar Python 3.10 ou superior.
