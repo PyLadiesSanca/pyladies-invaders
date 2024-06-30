@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "pyladies-invaders"
+version = "0.1.0"
+description = "Space Invaders do PyLadies São Carlos"
+authors = ["Juliana Karoline <julianaklulo@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pygame = "^2.6.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
