@@ -32,13 +32,13 @@ SHOT_INVADER_SPEED = 3
 INVADER_X_SPEED = 10
 INVADER_Y_SPEED = 5
 
-HIT_INVADER_SOUND = "sounds/hit_invader.wav"
-HIT_PLAYER_SOUND = "sounds/hit_player.wav"
-EXPLOSION_SOUND = "sounds/explosion.wav"
-VICTORY_SOUND = "sounds/victory.wav"
-GAME_START_SOUND = "sounds/game_start.wav"
-GAME_OVER_SOUND = "sounds/game_over.wav"
-GAME_RUN_SOUND = "sounds/game_run.wav"
+HIT_INVADER_SOUND = "sounds/hit_invader.ogg"
+HIT_PLAYER_SOUND = "sounds/hit_player.ogg"
+EXPLOSION_SOUND = "sounds/explosion.ogg"
+VICTORY_SOUND = "sounds/victory.ogg"
+GAME_START_SOUND = "sounds/game_start.ogg"
+GAME_OVER_SOUND = "sounds/game_over.ogg"
+GAME_RUN_SOUND = "sounds/game_run.ogg"
 
 FONT = "fonts/RobotoMono-Bold.ttf"
 
